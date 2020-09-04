@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [tailwindCss](https://tailwindcss.com/).
 
 ### 1 to install all dependencies run : `npm i`
 
